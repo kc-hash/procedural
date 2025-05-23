@@ -1,13 +1,4 @@
 //with function
-VAR
-    i, result : integer
-BEGIN
-    result ← 0
-    For i from 1 to 3 do
-        result ← result + (v1[i] * v2[i])
-    EndFor
-    Return result
-END
 
 Algorithm Check Orthogonality
 
