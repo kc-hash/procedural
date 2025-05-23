@@ -1,11 +1,5 @@
 //with function
 VAR
-    set_declarations
-BEGIN
-    set_instructions
-    RETURN value ;
-END
-VAR
     i, result : integer
 BEGIN
     result ← 0
