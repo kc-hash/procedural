@@ -1,16 +1,2 @@
 
-Algorithm Check Orthogonality
-
-VAR
-    v1 : array[1..3] of integers ← [1, 2, -3]
-    v2 : array[1..3] of integers ← [3, 0, 1]
-    result : integer
-BEGIN
-    result ← Dot_Product(v1, v2)
-
-    If result = 0 then
-        Write "The vectors are orthogonal"
-    Else
-        Write "The vectors are not orthogonal"
-    EndIf
-END
+a refaire
